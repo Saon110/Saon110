@@ -9,7 +9,7 @@ I'm a Computer Science and Engineering student at **Bangladesh University of Eng
 - 🏫 **Institution:** BUET CSE Department
 - 🌱 Currently learning **Advanced AI Algorithms** and **Machine Learning**
 - 💡 Interested in **Search Algorithms**, **Optimization**, and **Game Theory**
-- 📫 How to reach me: **[Your Email Here]**
+- 📫 How to reach me: **[saonchishty@gmail.com]**
 
 ## 🛠️ Technologies & Tools
 
