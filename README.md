@@ -7,8 +7,7 @@ I'm a Computer Science and Engineering student at **Bangladesh University of Eng
 
 - 🎓 **Student ID:** 2105110
 - 🏫 **Institution:** BUET CSE Department
-- 🌱 Currently learning **Advanced AI Algorithms** and **Machine Learning**
-- 💡 Interested in **Search Algorithms**, **Optimization**, and **Game Theory**
+- 💡 Interested in **Machine Learning**, **AI**, and **Software Development**
 - 📫 How to reach me: **[saonchishty@gmail.com]**
 
 ## 🛠️ Technologies & Tools
