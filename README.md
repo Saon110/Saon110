@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Saon
 ![Profile Views](https://komarev.com/ghpvc/?username=Saon110&color=brightgreen)
 
+![](https://github-profile-trophy.vercel.app/?username=Saon110&theme=onedark)
+
 ## 🚀 About Me
 
 I'm a Computer Science and Engineering student at **Bangladesh University of Engineering and Technology (BUET)**, passionate about **Artificial Intelligence**, **Software Development**, and **Problem Solving**.
